@@ -20,8 +20,8 @@
 - 📈 Developing **interactive dashboards** in Power BI  
 - 🧹 Automating **data cleaning workflows** using Python and Excel Power Query  
 - 🗄️ Optimizing **SQL queries** for business datasets  
-- 🤖 Exploring **data modeling and predictive analytics**  
-
+- 🤖 Exploring **data modeling and predictive analytics**
+  
 ---
 
 ### 🧰 Languages and Tools  
