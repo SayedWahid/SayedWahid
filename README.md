@@ -53,13 +53,13 @@
 
 ### 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayedWahid&show_icons=true&theme=react&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayedWahid&theme=react&hide_border=true" width="49%" />
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=SayedWahid&show_icons=true&theme=react&hide_border=true" width="49%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SayedWahid&theme=react&hide_border=true" width="49%" />  
+</p>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedWahid&layout=compact&theme=react&hide_border=true" width="60%" />
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SayedWahid&layout=compact&theme=react&hide_border=true" width="60%" />  
 </p>
 
 ---
