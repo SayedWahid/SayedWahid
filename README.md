@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sayed Wahid</h1>
-<h3 align="center">📊 Bilingual Data Analyst (اللغة العربية)| Power BI | Python | SQL | Excel | Insight-driven Professional</h3>
+<h1 align="center">Hi 👋, I'm Sayed Wahid (Arabic Langauge Specialist)</h1>
+<h3 align="center">📊 Bilingual Data Analyst | Power BI | Python | SQL | Excel | Insight-driven Professional</h3>
 
 ---
 
@@ -44,8 +44,7 @@
 
 | 🗂️ Project | 🧾 Description | 🧠 Tools Used |
 |-------------|----------------|----------------|
-| [**Superstore Sales Dashboard**](https://github.com/SayedWahid/superstore-sales-dashboard) | Interactive Power BI dashboard analyzing Superstore data with KPIs, trends, and profit visuals. | MySQL, Power BI |
-| [**Financial Sales Dashboard**](https://github.com/SayedWahid/financial-sales-dashboard) | Financial performance insights using advanced Power BI visuals and dynamic measures. | Power BI |
+| [**ABC Online Market – 2024 Sales Dashboard**](https://github.com/SayedWahid/ABC-Online-Market-2024-Sales-Dashboard-Power-BI-Python-) | End-to-end sales analytics project combining Python data cleaning and Power BI visualization. Features KPIs, monthly revenue trends, product performance, and regional insights. | Python, Power BI |
 | [**E-commerce SQL Analysis**](https://github.com/SayedWahid/ecommerce_sales_sql_analysis) | SQL-based business insights from Kaggle data using joins, CTEs, and aggregation logic. | MySQL |
 | [**Titanic EDA Analysis**](https://github.com/SayedWahid/titanic-eda-analysis) | Exploratory data analysis (EDA) and visualization using Python libraries. | Python |
 | [**Medical Appointment Data Cleaning**](https://github.com/SayedWahid/medical-appointment-data-cleaning) | Cleaned and standardized dataset using Excel and Python automation. | Excel, Python |
