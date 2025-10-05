@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sayed Wahid (Arabic Langauge Specialist)</h1>
-<h3 align="center">📊 Bilingual Data Analyst | Power BI | Python | SQL | Excel | Insight-driven Professional</h3>
+<h1 align="center">Hi 👋, I'm Sayed Wahid </h1>
+<h3 align="center">📊 Bilingual Data Analyst (Arabic Langauge Specialist) | Power BI | Python | SQL | Excel | Insight-driven Professional</h3>
 
 ---
 
