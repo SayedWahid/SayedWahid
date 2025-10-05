@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/sayedwahid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sayed%20Wahid-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sayedwahid@gmail.com">
+  <a href="mailto:swahid1656@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sayedwahid%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
