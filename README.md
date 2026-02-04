@@ -59,12 +59,17 @@ With strong bilingual communication skills in **Arabic (اللغة العربي�
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayedWahid&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SayedWahid&theme=react&hide_border=true" width="48%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SayedWahid&show_icons=true&theme=react&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedWahid&layout=compact&theme=react&hide_border=true" width="55%"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=SayedWahid&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
