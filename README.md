@@ -61,7 +61,8 @@ With strong bilingual communication skills in **Arabic (اللغة العربي�
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=SayedWahid&show_icons=true&theme=react&hide_border=true"
-    alt="GitHub Stats"
+    alt="GitHub Statistics"
+    width="49%"
   />
 </p>
 
@@ -69,7 +70,23 @@ With strong bilingual communication skills in **Arabic (اللغة العربي�
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=SayedWahid&theme=react&hide_border=true"
     alt="GitHub Streak"
+    width="49%"
   />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedWahid&layout=compact&theme=react&hide_border=true"
+    alt="Top Languages"
+    width="55%"
+  />
+</p>
+
+<p align="center">
+  <i>
+    Maintaining consistent GitHub activity through analytics projects, SQL practice,
+    dashboard documentation, and continuous learning.
+  </i>
 </p>
 
 ---
