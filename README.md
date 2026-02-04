@@ -7,22 +7,22 @@
 
 ## 🚀 About Me  
 
-🔹 Insight-driven **Data Analyst** with strong experience in **data analytics, automation, and business reporting**  
-🔹 Hands-on expertise in **Power BI, Excel, MySQL, and Python (Pandas, NumPy, Matplotlib, Seaborn)**  
-🔹 Strong bilingual communicator fluent in **Arabic (اللغة العربية)** and **English** for cross-regional analysis  
-🔹 Focused on transforming **raw data into actionable insights** that support business decisions  
-🔹 Experienced in **dashboard storytelling, KPI tracking, and performance analysis**  
-🔹 Actively exploring **predictive analytics, machine learning concepts, and AI-assisted workflows**  
-🔹 Career goal: Deliver **data-backed insights** that drive efficiency, growth, and strategy  
+🔹 Insight-driven **Data Analyst** with experience in **data analytics, automation, and business reporting**  
+🔹 Skilled in **Power BI, Excel, MySQL, and Python (Pandas, NumPy, Matplotlib, Seaborn)**  
+🔹 Strong bilingual communicator fluent in **Arabic (اللغة العربية)** and **English**  
+🔹 Specialized in turning **raw data into actionable insights** through dashboards and storytelling  
+🔹 Experienced in **KPI tracking, performance analysis, and data cleaning workflows**  
+🔹 Currently exploring **predictive analytics, machine learning basics, and AI-assisted analytics**  
+🔹 Goal: Enable **data-driven decision-making** that delivers measurable business impact  
 
 ---
 
 ## 🧠 What I’m Currently Working On  
 
-- 📈 Designing **interactive Power BI dashboards** with business KPIs  
-- 🧹 Automating **data cleaning and transformation workflows** using Python & Power Query  
-- 🗄️ Writing **optimized SQL queries** for reporting and analysis  
-- 🤖 Learning **predictive analytics and basic machine learning techniques**
+- 📈 Building **interactive Power BI dashboards** for business insights  
+- 🧹 Automating **data cleaning & transformation** using Python and Power Query  
+- 🗄️ Writing **optimized SQL queries** for analytics and reporting  
+- 🤖 Learning **predictive analytics & introductory machine learning concepts**
 
 ---
 
@@ -34,9 +34,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -46,9 +45,9 @@
 
 | Project | Description | Tools |
 |------|-------------|-------|
-| **ABC Online Market – 2024 Sales Dashboard** | End-to-end sales analytics project with KPIs, monthly revenue trends, product performance, and regional insights | Python, Power BI |
-| **E-commerce SQL Analysis** | SQL-based business insights using joins, CTEs, and aggregations | MySQL |
-| **Titanic EDA Analysis** | Exploratory Data Analysis (EDA) and visualization | Python |
+| **ABC Online Market – 2024 Sales Dashboard** | End-to-end sales analytics with KPIs, revenue trends, product performance, and regional insights | Python, Power BI |
+| **E-commerce SQL Analysis** | Business insights using joins, CTEs, and aggregations | MySQL |
+| **Titanic EDA Analysis** | Exploratory Data Analysis and visualization | Python |
 | **Medical Appointment Data Cleaning** | Automated data cleaning and standardization workflow | Excel, Python |
 
 ---
@@ -83,18 +82,17 @@
 
 - **English** — Professional  
 - **Arabic (اللغة العربية)** — Professional  
-- **Hindi (हिन्दी)** — Native  
-- **Urdu (اردو)** — Native  
+- **Hindi** — Native  
+- **Urdu** — Native  
 
 ---
 
 ## 🏆 Certifications  
 
-- ✅ Google Data Analytics Certificate  
-- ✅ LinkedIn Analytics Certificate  
-- ✅ Udemy Data Analytics Certificate  
+- Google Data Analytics Certificate  
+- LinkedIn Analytics Certificate  
+- Udemy Data Analytics Certificate  
 
 ---
 
-⚡ **Fun Fact**  
-*“I translate data into decisions — and insights into stories, in both Arabic and English.”*
+⚡ *“I translate data into decisions — and insights into stories.”*
